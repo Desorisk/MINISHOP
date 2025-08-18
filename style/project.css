@@ -113,7 +113,7 @@ body{
     }
 }
 .main-content{
-    background-image: url(./public/img/Nav.jpg);
+    background-image: url(./../public/img/Nav.jpg);
     width: 100%;
     height: 100vh;
     background-repeat: no-repeat;
@@ -419,7 +419,7 @@ body{
         width: 610px;
         height: 200px;
         border-radius: 5px;
-        background-image: url(./public/img/men.jpg);
+        background-image: url(./../public/img/men.jpg);
         box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
         position: relative;
         & .text{
@@ -447,7 +447,7 @@ body{
         width: 610px;
         height: 200px;
         border-radius: 5px;
-        background-image: url(./public/img/women.jpg);
+        background-image: url(./../public/img/women.jpg);
         box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
         position: relative;
          & .text{
